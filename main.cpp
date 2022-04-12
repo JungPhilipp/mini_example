@@ -1,5 +1,8 @@
+#include <iostream>
+
 auto
 main() -> int
 {
-    return 0;
+    std::cout << "This is a test" << std::endl;
+    return 1;
 }
